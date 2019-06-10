@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -79,3 +80,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 25e26c2e359ebe8f6b1b2210513e6644a9dff1e9
