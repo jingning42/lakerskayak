@@ -1,0 +1,51 @@
+# basic
+title: Daily
+subtitle: Minimalism, simplicity and refined details
+favicon: https://hexo.io/icon/favicon-96x96.png
+
+# avatar: images/avatar.png
+# banner_small: images/banner-small.png
+# banner_large: images/banner-large.png
+logo: https://hexo.io/logo.svg
+
+# disqus
+#disqus_shortname: drakeleung
+
+highlight:
+  enable: true
+  line_number: false
+  auto_detect: false
+  tab_replace:
+
+# nav #
+nav:
+  主页: .
+  俱乐部介绍: about
+  课程: course
+  联系我们: contact
+  # rss: atom.xml
+
+# hexo-renderer-sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+# Default post title
+default_post_title: Untitled
+
+# social
+social:
+  # github: https://github.com/GallenHu
+  # weibo: http://weibo.com/10010800
+  # mail: mailto:gallenhu@foxmail.com
+  # twitter: https://twitter.com/GallenHu
+
+# widget
+#   title: 标题
+#   content: 内容
+widget:
+  title: 千岛湖湖人皮划艇俱乐部
+  content: <p>地址：浙江省淳安县千岛湖镇滨湖路96号 <br>电话：15158019159 - 阿栋</p> 
+
+footer: Powered by <a href="https://hexo.io/" target="_blank">Hexo</a> with Theme <a href="https://github.com/GallenHu/hexo-theme-Daily" target="_blank">Daily</a>
