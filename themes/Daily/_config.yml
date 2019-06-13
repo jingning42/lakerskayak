@@ -3,10 +3,11 @@ title: Daily
 subtitle: Minimalism, simplicity and refined details
 favicon: https://hexo.io/icon/favicon-96x96.png
 
-# avatar: images/avatar.png
-# banner_small: images/banner-small.png
+# avatar: images/logo.jpg
+# banner_small: images/logo.jpg
 # banner_large: images/banner-large.png
-logo: https://hexo.io/logo.svg
+logo: images/logo_small.jpg
+#
 
 # disqus
 #disqus_shortname: drakeleung
@@ -19,9 +20,8 @@ highlight:
 
 # nav #
 nav:
-  主页: .
   俱乐部介绍: about
-  课程: course
+  皮划艇项目: course
   联系我们: contact
   # rss: atom.xml
 
