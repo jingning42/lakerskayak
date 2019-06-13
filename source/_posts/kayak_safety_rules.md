@@ -281,5 +281,3 @@ photos:
 
 5.若看见有人发出这些信号，请你向救援人员示意或在安全情况下尽量提供协助。
 
-<img src="../../images/logo.webp" width="400px">
-
