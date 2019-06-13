@@ -523,10 +523,10 @@ Content
   position: relative; }
 
 .container {
-  max-width: 600px;
+  max-width: 750px;
   margin: 0 auto;
-  padding-left: 50px;
-  padding-right: 50px; }
+  padding-left: 20px;
+  padding-right: 20px; }
 
 .inside-wrapper {
   max-width: 920px;
@@ -1130,7 +1130,7 @@ pre {
   .archive ul.list {
     padding-left: 20px; } }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 380px) {
   .container {
     padding-left: 20px;
     padding-right: 20px; }
