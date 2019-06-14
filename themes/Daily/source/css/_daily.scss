@@ -312,6 +312,8 @@ Content
   margin: 0 auto 35px;
   transition: opacity 0.7s;
   display: block;
+  width: 600px;
+  max-width: 100%;
   &:hover {
     opacity: 0.7;
   }
