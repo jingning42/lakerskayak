@@ -36,7 +36,7 @@ node_sass:
 default_post_title: Untitled
 
 # social
-social:
+#social:
   # github: https://github.com/GallenHu
   # weibo: http://weibo.com/10010800
   # mail: mailto:gallenhu@foxmail.com
@@ -45,8 +45,13 @@ social:
 # widget
 #   title: 标题
 #   content: 内容
-widget:
+widget1:
   title: 千岛湖湖人皮划艇俱乐部
   content: <p>地址：浙江省淳安县千岛湖镇滨湖路96号 <br>电话：15158019159 - 阿栋</p> 
 
-footer: Powered by <a href="https://hexo.io/" target="_blank">Hexo</a> with Theme <a href="https://github.com/GallenHu/hexo-theme-Daily" target="_blank">Daily</a>
+widget2:
+  title: 友情链接
+  content: <p><a href="https://www.americancanoe.org/" target="_blank">美国皮划艇协会网站（ACA）</a> <br> <a href="http://www.qiandaohu.cc" target="_blank">千岛湖旅游官方网站</a> </p>
+
+
+footer: Powered by <a href="https://hexo.io/" target="_blank">Hexo</a> Theme by <a href="https://github.com/GallenHu/hexo-theme-Daily" target="_blank">Daily</a> Hosted by <a href="https://pages.github.com/" target="_blank">Github Pages</a> Maintained by <a href="https://jenny42.com" target="_blank">jenny42</a>
