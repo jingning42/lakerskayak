@@ -1095,10 +1095,12 @@ pre {
 @media screen and (max-width: 767px) {
   .logo a img {
     height: 36px; }
+  .content-area {
+    padding-top: 0; }
   .site-content {
     min-height: auto; }
     .site-content .content-area {
-      padding-top: 0; }
+      padding-top: 10px; }
   .site-header {
     position: relative; }
     .site-header .navbar {
@@ -1134,8 +1136,8 @@ pre {
 
 @media screen and (max-width: 380px) {
   .container {
-    padding-left: 20px;
-    padding-right: 20px; }
+    padding-left: 12px;
+    padding-right: 12px; }
   .site-header,
   .page .site-header,
   .home.paged .site-header {
