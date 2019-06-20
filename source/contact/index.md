@@ -18,23 +18,17 @@ tags:
 
 - 15158019159 - 阿栋 
 
-- 13588360785 - 小方
+- 13588360785 - 欧文
 
-##### 微信：
+##### 咨询、预约微信：
 
-- 15158019159 - 阿栋 
+<img src="../../images/contact1.jpg" width="300px">
 
-- 13588360785 - 小方
+<img src="../../images/contact2.jpg" width="300px">
 
-##### QQ：
+##### 邮箱：lakerskayak@163.com
 
-- 83577551
+##### 微信公众号：lakerskayak
 
-##### 邮箱：
-
-- lakerskayak@163.com
-
-##### 关注我们：
-
-- 微信公众号：lakerskayak
+<img src="../../images/weixin.jpg" width="300px">
 
