@@ -12,6 +12,8 @@ tags:
 
 <img src="../../images/location.png" width="600px">
 
+<img src="../../images/location2.jpg" width="600px">
+
 ##### 咨询、预约电话：
 
 - 15158019159 - 阿栋 

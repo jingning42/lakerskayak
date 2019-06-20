@@ -10,8 +10,6 @@ photos:
 
 
 
-
-
 ### 我们提供
 
 本俱乐部为学员提供以下划艇装备：双人座舱式海洋舟、单人座舱式海洋舟、船桨、救生衣、儿童桨、儿童救生衣、防水袋 、划艇帽 、防浪裙、海绵、抽水泵、助浮袋、救援绳、地图、头灯、夜光服等。
@@ -53,7 +51,9 @@ photos:
 
 - 标准：符合欧洲标准验定
 
-<img src="../images/life_jacket.jpg" width="300px">
+<img src="../images/life_jacket.jpg" width="500px">
+
+> 左边成人救生衣，右边儿童救生衣
 
 
 
@@ -67,7 +67,7 @@ photos:
 
 -     角度30°-60°
 
-<img src="../images/paddle.jpg" width="300px">
+<img src="../images/paddle.jpg" width="400px">
 
 
 
@@ -83,9 +83,11 @@ photos:
 
 -          材质：聚醚TPU复合面料     
 
-<img src="../images/fangshuibao.jpg" width="300px">
+<img src="../images/fangshuibao.jpg" width="400px">
 
+##### 6、划艇鞋
 
+<img src="../images/shoes.jpg" width="400px">
 
 更多装备参考：
 
