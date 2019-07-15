@@ -65,7 +65,7 @@ photos:
 
 -     重量：0.9KG 
 
--     角度30°-60°
+-     角度：30°-60°
 
 <img src="../images/paddle.jpg" width="400px">
 
@@ -89,7 +89,18 @@ photos:
 
 <img src="../images/shoes.jpg" width="400px">
 
+##### 7、救援拖绳
+
+<img src="../images/jiuyuansheng.jpg" width="400px">
+
+##### 8、抽水泵
+
+<img src="../images/choushuibeng.jpg" width="400px">
+
+##### 9、助浮袋
+
+<img src="../images/zhufudai.jpg" width="400px">
+
 更多装备参考：
 
 <img src="../images/more.jpg" width="700px">
-
