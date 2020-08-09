@@ -3,7 +3,7 @@ title: 皮划艇安全守则
 date: 2019-06-14 12:50:18
 tags: 
 photos: 
-  - ../images/test.jpg
+  - ../images/safety_rules.jpg
 ---
 
  ### 一、引言
