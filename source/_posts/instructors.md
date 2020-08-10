@@ -22,7 +22,7 @@ photos:
 
 社会体育指导员（二级）
 
-从事皮划艇运动11年
+从事皮划艇运动12年
 
 <img src="../images/ACA_song.png" width="600px">
 
@@ -38,7 +38,7 @@ photos:
 
 社会体育指导员（二级）
 
-从事皮划艇运动10年
+从事皮划艇运动11年
 
 <img src="../images/ACA_fang.jpg" width="600px">
 

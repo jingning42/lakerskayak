@@ -14,7 +14,7 @@ Lakers Kayak Club offers a wide variety of trips and lessons for both kayaking a
 
 ### Kayak Trips and ACA Lessons
 
-We offer many types of kayaking trips and ACA lessons.  For short-distance kayaking trips, we provide 2-hour trip, half-day trip and night kayaking trip (2 hours). For long-distance kayaking trips, we provide 1-day trip, 2-day camping trip and 3-day camping trip. For ACA lessons, there are also many choices, including half-day training, ACA Level 1, Level 2, Level 3 sea kayaking skills training and kayak roll training. We accept individual registration as well as group registrations. Please call us for more information and the price.
+We offer many types of kayaking trips and ACA lessons.  For short-distance kayaking trips, we provide 2-hour trip, half-day trip and night kayaking trip (2 hours). For long-distance kayaking trips, we provide 1-day trip, 2-day camping trip and 3-day camping trip. For ACA lessons, there are also many choices, including half-day training, ACA Level 1, Level 2, Level 3 sea kayaking skills training and kayak roll training. We accept individual registration as well as group registrations. Please contact us for more information and the price.
 
 <img src="../../images/xuanchuan3.png" width="600px">
 
@@ -54,7 +54,7 @@ Owen has been kayaking for 11 years. He passed the American Canoe Association (A
 
 ### How to contact us or How to make an appointment?
 
-You can contact us by phone, WeChat or email. You can come to our dock directly without an appointment. However, making appointments in advance can give you a better experience. Phone and WeChat are preferred. If you can not communicate in Chinese, it's a good idea to bring a friend who can speak Chinese and your language as our instructors are not good at English.
+You can contact us by phone, WeChat or email. You can come to our dock directly without an appointment. However, making appointments in advance can give you a better experience. Phone and WeChat are preferred. If you can not communicate in Chinese, it's a good idea to bring a friend who can speak Chinese and your language as Adong and Owen are not good at English. Otherwise, you may need contact us by WeChat, since WeChat has in-app translation tools.
 
 ##### Our Location
 
